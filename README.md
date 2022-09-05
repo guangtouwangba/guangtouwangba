@@ -1,4 +1,4 @@
-### Hi there 👋
+### 菜鸡阿秋的github主页
 
 <!--
 **819110812/819110812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 啥都搞一点 >_<
+ 
+ 
