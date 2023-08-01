@@ -18,8 +18,5 @@ Here are some ideas to get you started:
  啥都搞一点 >_<
  
  有兴趣戳我博客主页： https://doraemonabcd.xyz/
- 
- 欢迎关注个人公众号：
- ![](https://golearning.oss-cn-shanghai.aliyuncs.com/obsidian扫码_搜索联合传播样式-标准色版.png)
 
  
