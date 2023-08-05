@@ -34,6 +34,9 @@ opt.smartcase = true
 opt.termguicolors = true
 opt.signcolumn = "yes"
 
+-- 展示我的命令
+opt.showcmd = true
+
 -- 主题设置
 vim.cmd("colorscheme nightfox")
 

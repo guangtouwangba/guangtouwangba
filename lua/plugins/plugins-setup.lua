@@ -26,6 +26,13 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   use({ 'rose-pine/neovim', as = 'rose-pine' }) --主题2
   use "EdenEast/nightfox.nvim" -- Packer https://github.com/EdenEast/nightfox.nvim
+  
+  -- github copilot 设置
+  use "github/copilot.vim"
+
+  -- toggleterm 设置
+  use {"akinsho/toggleterm.nvim", tag = '*'}
+
   use {
     'nvim-lualine/lualine.nvim',  -- 状态栏
     requires = { 'kyazdani42/nvim-web-devicons', opt = true }  -- 状态栏图标
