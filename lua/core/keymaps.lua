@@ -20,4 +20,7 @@ keymap.set("n", "<C-H>", ":bprevious<CR>")
 -- nvim-tree
 keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>")
 -- toggleterm
+-- 打开
 keymap.set("n", "<leader>tt", ":ToggleTerm<CR>")
+-- 关闭
+keymap.set("t", "<leader>tt", "<C-\\><C-n>:ToggleTerm<CR>")
