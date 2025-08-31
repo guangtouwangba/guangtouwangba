@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 啥都搞一点 >_<
  
- 有兴趣戳我博客主页： https://doraemonabcd.xyz/
 
  
